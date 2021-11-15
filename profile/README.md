@@ -17,7 +17,7 @@ Dezenix can assist you with getting started with front-end development and UI/UX
 
 <p align="center">JOIN US IN OUR MISSION OF NO-CODE OPEN SOURCE CONTRIBUTION, AND LET'S MAKE IT BIG.</p></p>
 
-<h1 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
+<h1 align="center">connect! with us<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
 <p align="center">
 <a href="mailto:dezenix.reachus@gmail.com"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/mail.png" /></a> &nbsp;&nbsp
 <a href="https://twitter.com/dezenix"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/twitter.png" /></a> &nbsp;&nbsp
