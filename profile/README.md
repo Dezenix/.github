@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/79747022/141722871-ae246f3e-bdff-4688-a293-3254271a67df.gif"></a>
 </div>
 
-<h4 align="center"> DEZENIX which loves enthusiastic creators and designers, is helping everyone to contribute and proceed with frontend. </h4>
+<h4 align="center"> DEZENIX which loves enthusiastic Designers and Developers, is helping everyone to contribute and proceed with UI/UX & Frontend. </h4>
 
 <div align="center">
 <a href="https://github.com/Dezenix">
@@ -16,7 +16,7 @@
 #### With its varied range of projects and source codes, Dezenix has something for everyone. It saves your time and gives a smooth and high-fidelity solution to other developers.
 #### Dezenix can assist you with getting started with front-end development and UI/UX right now!
 
-<h3 align="center">JOIN US IN OUR MISSION OF NO-CODE OPEN SOURCE CONTRIBUTION, AND LET'S MAKE IT BIG.</h3>
+<h3 align="center">JOIN US IN OUR MISSION OF CREATING A WORLD'S LARGEST LIBRARY FOR DSIGNERS AND FRONTEND DEVELOPERS, AND LET'S MAKE IT BIG.</h3>
 
 <h1 align="center">Connect! with us<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
 <p align="center"> 
