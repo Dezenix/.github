@@ -27,7 +27,7 @@ Dezenix can assist you with getting started with front-end development and UI/UX
 | --- | -------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1.  | <a href="https://gdsc-woc.tech/">Winter of code (WOC) 2.0</a>              | 30th Nov 2021- 30th Jan 2022 | <a href="https://github.com/Dezenix/.github/blob/main/Programs/WOC%202.0/README.md">Our Projects and details</a> |
 | 2.  | <a href="https://swoc.scriptindia.org/#/">Script Winter of code (SWOC)</a> | 1st Dec 2021- 28th Feb 2022  | <a href="https://github.com/Dezenix/.github/blob/main/Programs/SWOC/README.md">Our Projects and details</a>      |
-| 3.  | !0 days of code by IITM| 22nd Dec 2021- 1st Jan 2022  | <a href="">Our Projects and details</a>      |
+| 3.  | !0 days of code by IITM| 22nd Dec 2021- 1st Jan 2022  | <a href="https://github.com/Dezenix/.github/blob/main/Programs/10%20Days%20Of%20Code%20by%20IITM/README.md">Our Projects and details</a>      |
  </div>
 
 <h2 align="center">Connect! with us<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
