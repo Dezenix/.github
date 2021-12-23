@@ -1,6 +1,6 @@
 ![swoc](https://user-images.githubusercontent.com/79747022/144781584-0238c73a-34b1-408f-80c2-6df663489040.png)
 
-<h2 align="center">Project Admin: <a href="https://github.com/Swanand-Wagh">Swanand Wagh</a></h2>
+<h1 align="center">Project Admin: <a href="https://github.com/Swanand-Wagh">Swanand Wagh</a></h1>
 
 | No. | Projects that Participated | Project Ideas | Mentors |
 |-----|----------------------------|---------------|---------|
