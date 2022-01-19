@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Dezenix">
-<img src="https://user-images.githubusercontent.com/79747022/141722871-ae246f3e-bdff-4688-a293-3254271a67df.gif"></a>
+<img src="https://user-images.githubusercontent.com/79747022/150109055-1a61a22a-cb2b-48f4-b49b-5d45cde4a81c.gif"></a>
 </div>
 
 <h3 align="center"> DEZENIX which loves enthusiastic Designers and Developers, is helping everyone to contribute and proceed with UI/UX & Frontend. </h3>
