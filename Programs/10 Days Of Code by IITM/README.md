@@ -1,4 +1,4 @@
-![10doc](https://user-images.githubusercontent.com/79747022/147198890-e0ab90df-80bf-45c0-b3e2-2a72d56c1492.png)
+![4](https://user-images.githubusercontent.com/79747022/151587008-420feae9-c996-4391-97c4-f4566aa34c92.png)
 
 <h1 align="center"> Project Admin <a href="https://github.com/dishitarocks">Dishita Bhasin</a></h1>
 
