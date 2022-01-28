@@ -1,4 +1,4 @@
-![woc dezenix](https://user-images.githubusercontent.com/79747022/143006582-d420ec68-21d2-480c-a72a-6fa0ec942854.png)
+![b](https://user-images.githubusercontent.com/79747022/151586767-397d4a2a-ec62-4a2d-a7e7-16420befcf0c.png)
 
 
 | No. | Projects that. particiapted | Project Idea | Mentors |
