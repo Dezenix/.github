@@ -1,5 +1,5 @@
-![b](https://user-images.githubusercontent.com/79747022/151586767-397d4a2a-ec62-4a2d-a7e7-16420befcf0c.png)
 
+![a](https://user-images.githubusercontent.com/79747022/151586869-ea47cddb-2ee5-4ada-8c4e-d030f0d1f070.png)
 
 | No. | Projects that. particiapted | Project Idea | Mentors |
 |-----|----------------------------|---------------|---------|
