@@ -42,6 +42,6 @@ src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40p
 <a href="https://github.com/dezenix"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/company/dezenix/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
- <a href="https://www.instagram.com/dezenix.official/" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+ <a href="https://www.instagram.com/dezenixofficial/" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 
 <br>
