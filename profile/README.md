@@ -1,20 +1,19 @@
 <div align="center">
 <a href="https://github.com/Dezenix">
-<img src="https://user-images.githubusercontent.com/79747022/150109055-1a61a22a-cb2b-48f4-b49b-5d45cde4a81c.gif"></a>
 </div>
 
-<h3 align="center"> DEZENIX which loves enthusiastic Designers and Developers, is helping everyone to contribute and proceed with UI/UX & Frontend. </h3>
+<h3 align="center"> CODE PALLETTE which loves enthusiastic Designers and Developers, is helping everyone to contribute and proceed with UI/UX & Frontend. </h3>
 
 <div align="center">
 <a href="https://github.com/Dezenix">
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerian&color=%237FE997&size=25&center=true&lines=Welcome+to+Dezenix+org!;Let's+Support+each+other;Start+Contributing+%3A"></a>
 </div>
 
-Dezenix is a community for UX/UI Designers and Frontend Developers of mobile and web applications. We're on a quest to build a considerable learning and growing environment for designers and engineers. Here, learners and mentors from all backgrounds can collaborate on exciting front-end projects to create a seamless user experience.
-Dezenix is enhancing front-end apps in more than 10+ programming languages front-end frameworks and attempting to deliver the most satisfactory product design solution for other open source communities. Suppose you enjoy combining design, technology, and programming to create the most incredible possible user experiences. In that case, this is the organization for you.
+CODE PALLETTE is a community for UX/UI Designers and Frontend Developers of mobile and web applications. We're on a quest to build a considerable learning and growing environment for designers and engineers. Here, learners and mentors from all backgrounds can collaborate on exciting front-end projects to create a seamless user experience.
+CODE PALLETTE is enhancing front-end apps in more than 10+ programming languages front-end frameworks and attempting to deliver the most satisfactory product design solution for other open source communities. Suppose you enjoy combining design, technology, and programming to create the most incredible possible user experiences. In that case, this is the organization for you.
 
 With its varied range of projects and source codes, Dezenix has something for everyone. It saves your time and gives a smooth and high-fidelity solution to other developers.
-Dezenix can assist you with getting started with front-end development and UI/UX right now!
+CODE PALLETTE can assist you with getting started with front-end development and UI/UX right now!
 
 <h3 align="center">JOIN US IN OUR MISSION OF CREATING THE WORLD'S LARGEST LIBRARY FOR DESIGNERS AND FRONTEND DEVELOPERS.</h3>
 
